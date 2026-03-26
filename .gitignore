@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# Docs / misc large files (optional)
+*.docx
